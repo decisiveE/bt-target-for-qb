@@ -1,4 +1,4 @@
-# bt-target or qb-eye
+# bt-target for qb
  This is a simple tutorial for the bt-target 
 
 For using the script u will need a few requirements 
